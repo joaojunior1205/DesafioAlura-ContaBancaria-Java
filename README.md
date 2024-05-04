@@ -17,7 +17,7 @@ Este é um simples sistema de conta bancária implementado em Java, originado de
 
 1. Clone este repositório:
 
-git clone git@github.com:joaojunior1205/DesafioAlura-ContaBancaria-Java.git
+git clone https://github.com/joaojunior1205/DesafioAlura-ContaBancaria-Java.git
 
 
 2. Navegue até o diretório do projeto:
