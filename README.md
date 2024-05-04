@@ -43,12 +43,13 @@ java Main
 
 Operações
 
-1- Consultar saldo
-2- Receber valor
-3- Transferir valor
-4- Sair
+1 - Consultar saldo
+2 - Receber valor
+3 - Transferir valor
+4 - Sair
 
 Escolha uma operação: 2
+
 Valor Recebido: 500
 
 Novo saldo: 3000.0
@@ -60,6 +61,4 @@ Contribuições são bem-vindas! Para sugestões, correções de bugs ou melhori
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
-Lembre-se de substituir seu-usuario e seu-repositorio com o seu nome de usuário e nome do repositório no GitHub.
+Licença livre e de código aberto.
